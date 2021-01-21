@@ -61,8 +61,8 @@ $ yarn install
 # Run the app
 $ yarn nodemon
 
-#We use the INSOMNIA tool for testing API's and REST.
 ```
+We use the INSOMNIA tool for testing API's and REST.
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/dionbiancha/gostack-backend-with-nodejs/blob/master/LICENSE) for more information.
